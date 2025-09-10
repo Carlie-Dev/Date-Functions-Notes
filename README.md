@@ -1,5 +1,9 @@
 # Date-Functions-Notes
 
-## Todays notes
+## September 10th, 2025
 
-time() gives us a time stamp that changes every second.
+### Built in time functions:
+
+    time() gives us a time stamp that changes every second.
+
+    date_default_timezone_set() allows you to set a specific time zone.
